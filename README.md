@@ -24,6 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senanik360&" alt="senanik360" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=senanik360&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=senanik360)  
