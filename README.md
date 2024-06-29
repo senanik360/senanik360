@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Anik Sen</h1>
-<h3 align="center"> Master of Computing at MMU, Malaysia <br> BSc in CSE from American International University-Bangladesh. <br>Experienced as a Teacher & Researcher.</h3>
+<h2 align="center"> Currently Working on a FRGS Project as a Graduate Research Assistant at MMU.<h2>
+<h3 align="center">Master of Computing at MMU, Malaysia <br> BSc in CSE from American International University-Bangladesh. <br>Experienced as a Teacher & Researcher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senanik360&label=Profile%20views&color=0e75b6&style=flat" alt="senanik360" /> </p>
 
