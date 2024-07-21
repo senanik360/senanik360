@@ -1,19 +1,31 @@
 <h1 align="center">Hi, I'm Anik Sen</h1>
-<h2 align="center"> Currently Working on a FRGS Project as a Graduate Research Assistant at MMU.<h2>
+<h2 align="center">Currently Working on a FRGS Project as a Graduate Research Assistant at MMU.</h2>
 <h3 align="center">Master of Computing at MMU, Malaysia <br> BSc in CSE from American International University-Bangladesh. <br>Experienced as a Teacher & Researcher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senanik360&label=Profile%20views&color=0e75b6&style=flat" alt="senanik360" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senanik360" alt="senanik360" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=senanik360&theme=radical" alt="senanik360" />
+  </a> 
+</p>
 
 - 📫 How to reach me **aniksen360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/senanik360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senanik360" height="30" width="40" /></a>
-<a href="https://fb.com/senanik360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senanik360" height="30" width="40" /></a>
-<a href="https://instagram.com/anik360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anik360" height="30" width="40" /></a>
-<a href="https://discord.gg/Anik Sen#1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anik Sen#1184" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/senanik360" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senanik360" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/senanik360" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senanik360" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/anik360" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anik360" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/Anik Sen#1184" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anik Sen#1184" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,10 +56,10 @@
   </a>
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senanik360&show_icons=true&locale=en&layout=compact&theme=radical" alt="senanik360" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senanik360&show_icons=true&locale=en&theme=radical" alt="senanik360" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senanik360&theme=radical" alt="senanik360" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=senanik360&theme=radical)
+<h3 align="left">GitHub Activity Graph:</h3>
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=senanik360&theme=radical" alt="senanik360" /></p>
